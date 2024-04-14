@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi! Eu sou o Guilherme Rodrigues
 
 <!--
 **guiderodrigues/guiderodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning: Algoritmos e Estruturas de Dados II, Calculo II, Banco de Dados e Arquitetura de Computadores II;
+- 😄 Pronouns: Ele/dele, qualquer pronome;
+- ⚡ Fun fact: Tenho interesse por criação, principalmente de trabalhos mais artísticos, design. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades (desde a criação de sites, softwares aos videogames).
+<div>
+  <a ref="https://beacons.ai/guiderodrigues">
+    <img height="180em" src="htps://github-readme-stats.vercel.app/api?username=guiderodrigues&show_icons=true&theme==dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiderodrigues&layout=compact&langs_count=16&theme=dark"/>
+</div>
