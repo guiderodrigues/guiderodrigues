@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning: Algoritmos e Estruturas de Dados II, Calculo II, Banco de Dados e Arquitetura de Computadores II;
-- 😄 Pronouns: Ele/dele, qualquer pronome;
+- 😄 Pronouns: Ele/dele, qualquer pronome; (He/him , any pronouns)
 - ⚡ Fun fact: Tenho interesse por criação, principalmente de trabalhos mais artísticos, design. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades (desde a criação de sites, softwares aos videogames).
 <div>
   <a ref="https://beacons.ai/guiderodrigues">
