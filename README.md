@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning: Teoria dos Grafos e Computabilidade, Inteligência Artificial, Modelagem e Avaliação de Desempenho, Estatística e Probabilidade e Laboratório de Desenvolvimento para Dispositivos Móveis(Flutter);
-- 😄 Pronouns: Ele/dele (He/him);
+- 😄 Pronouns: Ele/dele (He/him or any);
 - ⚡ Fun fact: Tenho interesse por criação, principalmente de trabalhos mais artísticos, design. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades (desde a criação de sites e softwares aos videogames).
 <div>
   <a ref="https://beacons.ai/guiderodrigues">
