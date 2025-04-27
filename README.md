@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning: Teoria dos Grafos e Computabilidade, Inteligência Artificial, Modelagem e Avaliação de Desempenho, Estatística e Probabilidade e Laboratório de Desenvolvimento para Dispositivos Móveis(Flutter);
-- 😄 Pronouns: Ele/dele (He/him or any);
-- ⚡ Fun fact: Tenho interesse por criação, principalmente de trabalhos mais artísticos, design. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades (desde a criação de sites e softwares aos videogames).
+- 🌱 I’m currently learning: Sistemas Operacionas, Teoria de Redes, Arquitetura de Computadores 3, Algoritmos e Estruturas de Dados 3, Engenharia de Software 2 e Geometria Analítica e Álgebra Linear;
+- 😄 Pronouns: Ele/dele;
+- ⚡ Fun fact: Tenho interesse por criação, principalmente de trabalhos mais artísticos, design. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades.
 <div>
   <a ref="https://beacons.ai/guiderodrigues">
     <img height="180em" src="htps://github-readme-stats.vercel.app/api?username=guiderodrigues&show_icons=true&theme==dark&include_all_commits=true&count_private=true"/>
