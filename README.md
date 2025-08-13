@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning: Sistemas Operacionas, Teoria de Redes, Arquitetura de Computadores 3, Algoritmos e Estruturas de Dados 3, Engenharia de Software 2 e Geometria Analítica e Álgebra Linear;
+- 🌱 I’m currently learning: Otimização de Sistemas, Linguagens de Programação, Projeto e Análise de Algoritmos e Processamento e Análise de Imagens;
 - 😄 Pronouns: Ele/dele;
+- 📫 How to reach me: gui.de.rodrigues@icloud.com
 - ⚡ Fun fact: Tenho interesse por criação, principalmente de trabalhos mais artísticos, design. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades.
 <div>
   <a ref="https://beacons.ai/guiderodrigues">
