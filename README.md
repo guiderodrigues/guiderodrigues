@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Otimização de Sistemas, Linguagens de Programação, Projeto e Análise de Algoritmos e Processamento e Análise de Imagens;
 - 😄 Pronouns: Ele/dele;
 - 📫 How to reach me: gui.de.rodrigues@icloud.com
-- ⚡ Fun fact: Tenho interesse por criação, principalmente de trabalhos mais artísticos, design. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades.
+- ⚡ Fun fact: Tenho interesse por criação. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades como frontend ou fullstack.
 <div>
   <a ref="https://beacons.ai/guiderodrigues">
     <img height="180em" src="htps://github-readme-stats.vercel.app/api?username=guiderodrigues&show_icons=true&theme==dark&include_all_commits=true&count_private=true"/>
