@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: Otimização de Sistemas, Linguagens de Programação, Projeto e Análise de Algoritmos e Processamento e Análise de Imagens;
 - 😄 Pronouns: Ele/dele;
-- 📫 How to reach me: gui.de.rodrigues@icloud.com
+- 📫 How to reach me: guiderodrigues@hotmail.com
 - ⚡ Fun fact: Tenho interesse por criação. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades como frontend ou fullstack.
 <div>
   <a ref="https://beacons.ai/guiderodrigues">
