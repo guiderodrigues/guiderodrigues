@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning: Otimização de Sistemas, Linguagens de Programação, Projeto e Análise de Algoritmos e Processamento e Análise de Imagens;
+- 🌱 I’m currently learning: Fundamentos Teóricos da Computação, Computação Gráfica, Computação Distribuída, Computação Paralela, Tópicos em Computação, Ciências de Dados e fazendo TCC;
 - 😄 Pronouns: Ele/dele;
 - 📫 How to reach me: guiderodrigues@hotmail.com
-- ⚡ Fun fact: Tenho interesse por criação. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades como frontend ou fullstack.
+- ⚡ Fun fact: Tenho interesse por criação. Gostaria de trabalhar com áreas que possibilitem o uso dessas habilidades como dev. fullstack.
 <div>
   <a ref="https://beacons.ai/guiderodrigues">
     <img height="180em" src="htps://github-readme-stats.vercel.app/api?username=guiderodrigues&show_icons=true&theme==dark&include_all_commits=true&count_private=true"/>
